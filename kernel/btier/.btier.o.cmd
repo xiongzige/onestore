@@ -1,0 +1,1 @@
+cmd_/home/xiongzi/Downloads/btier-1.2.6/kernel/btier/btier.o := ld -m elf_x86_64   -r -o /home/xiongzi/Downloads/btier-1.2.6/kernel/btier/btier.o /home/xiongzi/Downloads/btier-1.2.6/kernel/btier/btier_common.o /home/xiongzi/Downloads/btier-1.2.6/kernel/btier/onestore_sysfs_hints_api.o /home/xiongzi/Downloads/btier-1.2.6/kernel/btier/btier_main.o 
